@@ -1,3 +1,5 @@
+**Note:** This work has been merged by [pull request #3 ](https://github.com/henrik/vim-open-url/pull/3), and I don't intend to add any other improvements for this plugin right now. Therefore I recommend to use [the original vim-open-url](https://github.com/henrik/vim-open-url).
+
 # Open URL plugin for Vim
 
 Opens URLs on the current line in your <s>OS X</s> Unix default browser.
